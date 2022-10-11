@@ -26,26 +26,19 @@ https://f-droid.org/repo/com.termux_117.apk
 - Step di bawah ini untuk install tools nya.
 ```
 
-# Installations
+# Installations command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```shell
-git clone https://github.com/ipkzone/three
-cd three
-php main.php --three
+# Update Package 
+$ pkg update && pkg upgrade
+$ pkg install curl
+$ pkg install php7
+
+# Install tools
+$ git clone https://github.com/ipkzone/three
+$ cd three
+$ php main.php --three
 
 Note: need licensi for aktivasi login in tools
-```
-
-install command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
-
-```shell
-pkg update && pkg upgrade
-pkg install curl && php7
-```
-
-# Usage
-- Termux Android
-```shell
-php main.php --three
 ```
 
 # Buy License key for aktivasi login
