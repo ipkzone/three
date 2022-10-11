@@ -16,6 +16,16 @@ Request for me for allowed pc
 - New Package Promo Three
 ```
 
+# Download Apps Termux in F-DROID 
+```shell
+https://f-droid.org/repo/com.termux_117.apk
+
+- Jika sudah anda download maka lanjut ke step di bawah ini 
+  anda ketikan di apps termux kalian yang sudah kalian install ya.
+
+- Step di bawah ini untuk install tools nya.
+```
+
 # Installations
 ```shell
 git clone https://github.com/ipkzone/three
