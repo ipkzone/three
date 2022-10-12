@@ -43,7 +43,8 @@ Note: need licensi for aktivasi login in tools
 
 # Buy License key for aktivasi login
 ```shell
-Join Whatsapp: https://chat.whatsapp.com/Bn8JeZTOco6B19n0BkKsNe
+Contact Whatsapp: 0895375136311
+Join Telegram Groups: https://t.me/key_tools_VIP
 ```
 
 # Note
