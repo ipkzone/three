@@ -40,7 +40,7 @@ $ pkg install git
 $ git clone https://github.com/ipkzone/three
 $ cd three/three_update
 $ nano licensi_key.txt
-$ php run --three
+$ php run.php --three
 
 note: kamu rubah dulu bagian file licensi_key.txt 
       ubah key contoh dengan key licensi kalian ya
