@@ -31,16 +31,24 @@ https://f-droid.org/repo/com.termux_117.apk
 # Installations command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```shell
 # Update Package 
-$ pkg update && pkg upgrade
+$ pkg update && upgrade
 $ pkg install curl
 $ pkg install php7
+$ pkg install git
 
 # Install tools
 $ git clone https://github.com/ipkzone/three
 $ cd three/three_update
+$ nano licensi_key.txt
 $ php run --three
 
-Note: need licensi for aktivasi login in tools
+note: kamu rubah dulu bagian file licensi_key.txt 
+      ubah key contoh dengan key licensi kalian ya
+      jika sudah save file .txt nya dengan cara ketik
+      ( CTRL-X + Y ) Done
+
+- Need licensi for aktivasi login in tools 
+- Licensi key actived for tools 30 days
 ```
 
 # Buy License key for aktivasi login
