@@ -1,12 +1,14 @@
 # Simple Script Bima+ Tembak Paket
 ```shell
-Script actived for termux only not pc
-Request for me for allowed pc
+New update allow for Window and Device termux
+- 1 Device 1 Licensi
+- 1 Tools 1 Licensi
+- No multi device
 ```
 
 # Example view tools Bima+
 <center><img src="1.png" alt="three"></center>
-<center><img src="2.png" alt="axisnet"></center>
+<center><img src="image.png" alt="three"></center>
 
 
 # Fiture Script Three
@@ -35,8 +37,8 @@ $ pkg install php7
 
 # Install tools
 $ git clone https://github.com/ipkzone/three
-$ cd three
-$ php main.php --three
+$ cd three/three_update
+$ php run --three
 
 Note: need licensi for aktivasi login in tools
 ```
@@ -45,6 +47,8 @@ Note: need licensi for aktivasi login in tools
 ```shell
 Contact Whatsapp: 0895375136311
 Join Telegram Groups: https://t.me/key_tools_VIP
+
+- Sorry for slow respon 
 ```
 
 # Note
