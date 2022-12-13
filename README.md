@@ -51,14 +51,6 @@ note: kamu rubah dulu bagian file licensi_key.txt
 - Licensi key actived for tools 30 days
 ```
 
-# Buy License key for aktivasi login
-```shell
-Contact Whatsapp: 0895375136311
-Join Telegram Groups: https://t.me/key_tools_VIP
-
-- Sorry for slow respon 
-```
-
 # Note
 The script runs with the license key,
 if you don't have a license key then you can't run it,
